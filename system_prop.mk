@@ -90,7 +90,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Scheduler
 PRODUCT_PROPERTY_OVERRIDES += \
-    sys.io.scheduler=bfq
+    sys.io.scheduler=row
 
 # SSR
 PRODUCT_PROPERTY_OVERRIDES += \
